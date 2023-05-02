@@ -1,0 +1,58 @@
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.csproj.AssemblyReference.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.Form1.resources
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.csproj.GenerateResource.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.AssemblyInfoInputs.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.AssemblyInfo.cs
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.csproj.CoreCompileInputs.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DTO.deps.json
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DTO.runtimeconfig.json
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DTO.exe
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DAO.exe
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DAO.deps.json
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DAO.runtimeconfig.json
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DAO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DTO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\bin\Debug\net6.0-windows\DTO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.csproj.CopyComplete
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\refint\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\DAO.genruntimeconfig.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\skzmcwklnvef\DAO\obj\Debug\net6.0-windows\ref\DAO.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DTO.deps.json
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DTO.runtimeconfig.json
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DTO.exe
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DAO.exe
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DAO.deps.json
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DAO.runtimeconfig.json
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DAO.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DAO.pdb
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DTO.dll
+D:\COFFE\winform-coffee\coffe\DAO\bin\Debug\net6.0-windows\DTO.pdb
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.csproj.AssemblyReference.cache
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.Form1.resources
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.csproj.GenerateResource.cache
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.AssemblyInfoInputs.cache
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.AssemblyInfo.cs
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.csproj.CoreCompileInputs.cache
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.csproj.CopyComplete
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.dll
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\refint\DAO.dll
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.pdb
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\DAO.genruntimeconfig.cache
+D:\COFFE\winform-coffee\coffe\DAO\obj\Debug\net6.0-windows\ref\DAO.dll
